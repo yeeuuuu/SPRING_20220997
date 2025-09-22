@@ -23,7 +23,7 @@ This project is a starting point for a Web application.
   - DemoController.java 파일을 생성해 컨트롤러의 클래스 작성.
   - html 속 링크는 /파일명 으로 수정.
 
-1. 연습문제
+2. 연습문제
 
 - 새로운 html을 만들어 URL 맵핑과 컨트롤러 추가
   - hello2.html을 만들어 기존 hello.html의 링크와 연결. 컨트롤러에 hello2 맵핑을 추가하고, 페이지에 출력할 텍스트 변수를 작성.
@@ -34,5 +34,11 @@ This project is a starting point for a Web application.
 
 - 3주차 포트폴리오 작성하기 완료
 - [index.html : 실행/수정 완료](https://github.com/yeeuuuu/SPRING_20220997)
+- 템플릿 삽입 후 내용 수정
+  - 자기소개 및 전공/세부분야 맞춰 세부내용 수정
+- 버튼에 매핑 경로 추가 후 about_detailed.html에 개인 소개 상세페이지 작성
 
-2. 연습문제
+1. 연습문제
+
+- about_detailed.html의 되돌아가기 버튼 수정
+  - 창을 닫을지 묻고 현재 창을 닫도록하는 알림창 추가: main.js에 confirmClose()함수를 추가 후 onclick="confirmClose()" 를 버튼에 추가. 그러나 알림창에서 확인을 눌러도 창이 닫히지 않는 오류 발생. 함수에 window.close() 를 사용했는데 사용자가 직접 연 탭은 스크립트가 임의로 닫을 수 없다고 함. 수정 필요
