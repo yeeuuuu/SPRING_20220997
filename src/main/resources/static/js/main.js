@@ -122,11 +122,11 @@
   });
 })(jQuery);
 
-function confirmClose() {
-  if (confirm("정말 창을 닫으시겠습니까?")) {
-    window.close();
-  } else {
-  }
+// function confirmClose() {
+//   if (confirm("정말 창을 닫으시겠습니까?")) {
+//     window.close();
+//   } else {
+//   }
 
-  //알림창의 종류: alert(확인 기능만), confirm(확인, 취소), prompt(사용자로부터 내용을 입력받음+확인&취소)
-}
+//   //알림창의 종류: alert(확인 기능만), confirm(확인, 취소), prompt(사용자로부터 내용을 입력받음+확인&취소)
+// }
