@@ -1,12 +1,8 @@
 # SPRING_BOOT
 
-새로운 시작! 웹 서비스 개발의 세계로 떠나보아요~
-
-## Getting Started
-
-This project is a starting point for a Web application.
-
 - [프로젝트 메인 주소](https://github.com/yeeuuuu/SPRING_20220997)
+-
+- 5주차 수업 날 깃허브가 꺠져 커밋 기록만 남고 깃허브 업로드를 못했습니다. (warving: ignoring broken ref refs/heads/main, warving: ignoring broken ref refs/remotes/origin/main) 5주차에 해결이 안돼서 6주차에는 파일을 복사해서 수업 들었고, 깃허브에 못 올린 5, 6주차 수업 진도는 나중에 한번에 올리게 되었습니다.
 
 ## 2주차 - 스프링 부트 개발환경 설정
 
@@ -52,6 +48,9 @@ This project is a starting point for a Web application.
 
 2. 연습문제
 
+- 사용자를 데이터베이스에 직접 추가
+- 컨트롤러 부분 수정
+
 ## 5주차 - 포트폴리오 게시판 등록 & 블로그 제작
 
 1. 실습
@@ -60,3 +59,17 @@ This project is a starting point for a Web application.
 - 블로그에서 직접 데이터를 입력할 수 있게 수정(글쓰기 기능)
 
 2. 연습문제
+
+- 게시판 글쓰기 부분 수정
+- 컨트롤러 방식, 맵핑 추가 수정
+
+## 6주차 - 게시판 수정/삭제 기능 구현
+
+1. 실습
+
+- 게시판 수정, 삭제 기능 추가
+- 추가 - 예외처리
+
+2. 연습문제
+
+- 에러페이지 수정(추가 필요)
